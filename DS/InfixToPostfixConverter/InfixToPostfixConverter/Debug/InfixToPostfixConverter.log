@@ -1,0 +1,4 @@
+﻿  InfixToPostfixConverter.cpp
+F:\Programming Language\Data Structure\My Data Structure\InfixToPostfixConverter\InfixToPostfixConverter\InfixToPostfixConverter.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+F:\Programming Language\Data Structure\My Data Structure\InfixToPostfixConverter\InfixToPostfixConverter\InfixToPostfixConverter.cpp(74,20): warning C4018: '<': signed/unsigned mismatch
+  InfixToPostfixConverter.vcxproj -> F:\Programming Language\Data Structure\My Data Structure\InfixToPostfixConverter\Debug\InfixToPostfixConverter.exe
